@@ -26,3 +26,8 @@ print piggies[2]
 print bingo_numbers[3]
 # in this example, we would expect "94" to be returned.
 # It should be noted that once array methods are uses, the index positions for all the elements will change from their previous position in the array
+
+# **Final array method**
+print heights.clear
+# this would completely clear the array
+
